@@ -1,0 +1,6 @@
+表格 .table
+条纹状表格
+通过 .table-striped 类可以给 <tbody> 之内的每一行增加斑马条纹样式。
+
+带边框的表格
+添加 .table-bordered 类为表格和其中的每个单元格增加边框。
